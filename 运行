@@ -1,0 +1,1 @@
+& .\venv\Scripts\python.exe .\realtime\gateio_kronos_live.py --symbol ETH_USDT --interval 10s --poll 3 --window 30 --device cpu
